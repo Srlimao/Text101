@@ -1,0 +1,9 @@
+001
+Voce acorda numa sala branca, amarrado a uma maca.
+As lampadas estão quebradas
+O que fazer?
+
+1- Olhar em volta
+2- Puxar com força as amarras
+3- Tentar virar a maca
+4- Gritar

@@ -1,0 +1,4 @@
+﻿Sera se devo ir pra esquerda ou pra outra esquerda?
+
+1.Numero A
+2.Numero B
