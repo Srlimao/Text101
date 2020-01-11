@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db8f5567917d0af4881b08c6f5f60cc8, type: 3}
+  m_Name: A4
+  m_EditorClassIdentifier: 
+  storyTitle: 'A4. Picking Lock '
+  storyText: "You give it a good 10 minutes. No dice. Not going to happen.\r\n\r\nYou
+    do realise that you have no idea how to pick a lock right? You're an airship pilot,
+    not a common thief.\r\n\r\nSo what now?"
+  storyOptions: 1. Fine, try to pry it.
+  nextStates:
+  - {fileID: 11400000, guid: 87e7ff6de55821f47879f5d8a04829e5, type: 2}
